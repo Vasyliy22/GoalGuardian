@@ -2,6 +2,9 @@ module.exports = {
   extends: [
     '@mate-academy/eslint-config-react-typescript',
     'plugin:react/recommended',
+    'plugin:import/errors',
+    'plugin:import/warnings',
+    'plugin:import/typescript',
   ],
   rules: {
     // React
