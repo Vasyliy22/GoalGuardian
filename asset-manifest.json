@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react_todo_app/static/css/main.df22cbed.chunk.css",
-    "main.js": "/react_todo_app/static/js/main.48b122ac.chunk.js",
-    "main.js.map": "/react_todo_app/static/js/main.48b122ac.chunk.js.map",
-    "runtime-main.js": "/react_todo_app/static/js/runtime-main.b80db099.js",
-    "runtime-main.js.map": "/react_todo_app/static/js/runtime-main.b80db099.js.map",
-    "static/css/2.0ab31fd6.chunk.css": "/react_todo_app/static/css/2.0ab31fd6.chunk.css",
-    "static/js/2.74c72422.chunk.js": "/react_todo_app/static/js/2.74c72422.chunk.js",
-    "static/js/2.74c72422.chunk.js.map": "/react_todo_app/static/js/2.74c72422.chunk.js.map",
-    "index.html": "/react_todo_app/index.html",
-    "static/css/2.0ab31fd6.chunk.css.map": "/react_todo_app/static/css/2.0ab31fd6.chunk.css.map",
-    "static/css/main.df22cbed.chunk.css.map": "/react_todo_app/static/css/main.df22cbed.chunk.css.map",
-    "static/js/2.74c72422.chunk.js.LICENSE.txt": "/react_todo_app/static/js/2.74c72422.chunk.js.LICENSE.txt",
-    "static/media/all.css": "/react_todo_app/static/media/fa-v4compatibility.68577e40.woff2"
+    "main.css": "/GoalGuardian/static/css/main.df22cbed.chunk.css",
+    "main.js": "/GoalGuardian/static/js/main.48b122ac.chunk.js",
+    "main.js.map": "/GoalGuardian/static/js/main.48b122ac.chunk.js.map",
+    "runtime-main.js": "/GoalGuardian/static/js/runtime-main.64a35273.js",
+    "runtime-main.js.map": "/GoalGuardian/static/js/runtime-main.64a35273.js.map",
+    "static/css/2.7d9e952a.chunk.css": "/GoalGuardian/static/css/2.7d9e952a.chunk.css",
+    "static/js/2.74c72422.chunk.js": "/GoalGuardian/static/js/2.74c72422.chunk.js",
+    "static/js/2.74c72422.chunk.js.map": "/GoalGuardian/static/js/2.74c72422.chunk.js.map",
+    "index.html": "/GoalGuardian/index.html",
+    "static/css/2.7d9e952a.chunk.css.map": "/GoalGuardian/static/css/2.7d9e952a.chunk.css.map",
+    "static/css/main.df22cbed.chunk.css.map": "/GoalGuardian/static/css/main.df22cbed.chunk.css.map",
+    "static/js/2.74c72422.chunk.js.LICENSE.txt": "/GoalGuardian/static/js/2.74c72422.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/GoalGuardian/static/media/fa-v4compatibility.68577e40.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.b80db099.js",
-    "static/css/2.0ab31fd6.chunk.css",
+    "static/js/runtime-main.64a35273.js",
+    "static/css/2.7d9e952a.chunk.css",
     "static/js/2.74c72422.chunk.js",
     "static/css/main.df22cbed.chunk.css",
     "static/js/main.48b122ac.chunk.js"
